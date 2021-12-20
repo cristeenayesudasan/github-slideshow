@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your  text
+I don't have a welcome mat at my door because i'm not a liar.
 Use the left arrow to go back!
